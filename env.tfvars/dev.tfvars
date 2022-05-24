@@ -1,0 +1,8 @@
+AWSRegion        = "us-east-1"
+dynamodb-name    = "LOGIQUAD-db"
+read-capacity    = "1"
+write-capacity   = "1"
+hash-key         = "id"
+application-name = "logiquad-sftp"
+environment      = "dev"
+management       = "terraform"
